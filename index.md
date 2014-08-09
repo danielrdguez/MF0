@@ -16,18 +16,18 @@ knit        : slidify::knit2slides
 
 Módulo    | Unid. Formativa                       | horas |   fechas
 ----------|---------------------------------------|-------|--------------------
-Planificación e iniciativa emprendedora de pequeños negocios o microempresas |Actitude emprendedora e oportunidades de negocio  |   40  | 11/07/14 a 21/07/14
- | Proxecto e viabilidade do negocio ou microempresa |   40  | 22/07/14 a 31/07/14
- | Marketing e plan de negocio da microempresa       |   40  | 01/08/14 a 12/08/14
+Planificación e iniciativa emprendedora de pequeños negocios o microempresas |Actitude emprendedora e oportunidades de negocio  |   40  | 08/08/14 a 19/08/14
+ | Proxecto e viabilidade do negocio ou microempresa |   40  | 19/08/14 a 28/08/14
+ | Marketing e plan de negocio da microempresa       |   40  | 28/08/14 a 05/09/14
 
 ---
 
 Módulo    | Unid. Formativa                       | horas |   fechas
 ----------|---------------------------------------|-------|--------------------   
-Dirección da Actividade Empresarial de Pequenos Negocios ou Microempresas     | ----------------------- | 90 | 13/08/14 a 04/09/14
-Comercialización de Produtos e Servizos en Pequenos Negocios ou Microempresas | ----------------------- | 90 | 05/09/14 a 30/09/14
-Gestión de la prevención de riesgos laborales en pequeños negocios |Posta en marcha e financiamento de pequenos negocios ou microempresas         | 60 | 01/10/14 a 15/10/14
-  |Xestión contable, fiscal e laboral en pequenos negocios ou microempresas      | 60 | 16/10/14 a 30/10/14
+Dirección da Actividade Empresarial de Pequenos Negocios ou Microempresas     | ----------------------- | 90 | 08/09/14 a 29/09/14
+Comercialización de Produtos e Servizos en Pequenos Negocios ou Microempresas | ----------------------- | 90 | 30/09/14 a 20/10/14
+Xestión Administrativa e Económico-Financieira de pequenos negocios ou microempresas |Posta en marcha e financiamento de pequenos negocios ou microempresas         | 60 | 21/10/14 a 31/10/14
+  |Xestión contable, fiscal e laboral en pequenos negocios ou microempresas      | 60 | 03/11/14 a 14/11/14
 
 
 ---
@@ -42,8 +42,9 @@ Por cada **unidade formativa** faráse:
 
 Por cada **módulo**, no caso de que comprenda varias unidades formativas farase:
 
-1. Unha proba tipo test sobre os contidos teóricos do módulo 
-2. Un ou varios supostos prácticos sobre os contidos do módulo
+1. Unha proba de avaliación inicial ó comezo do módulo, que non puntuará na nota final.
+2. Unha proba tipo test sobre os contidos teóricos do módulo 
+3. Un ou varios supostos prácticos sobre os contidos do módulo
 
 ---
 
@@ -63,6 +64,19 @@ Los certificados de profesionalidad, regulados por el Real Decreto 34/2008, de 1
 ---
 
 <iframe src="https://docs.google.com/file/d/0ByIfQVyqvk-mVS0zblRDY3RrRm8/preview" width="640" height="385"></iframe>
+
+---
+
+<span class="canarias"><img src="http://www.cosmicchildren.com/wp-content/uploads/2014/06/savecanarias_es-1024x517.jpg"></span>
+
+<style>
+.canarias img {
+    max-height: 600px;
+    position: absolute;
+    left: 50px;
+    top: 75px;
+}
+</style>
 
 --- .quote .nobackground .segue bg:lightgreen 
 
